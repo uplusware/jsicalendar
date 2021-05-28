@@ -1,2 +1,2 @@
-# jsicalendar
-icalendar parser by javascript
+# jsiCalendar
+iCalendar parser by javascript
